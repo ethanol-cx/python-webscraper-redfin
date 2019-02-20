@@ -1,5 +1,3 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from scraper import Scraper
 import time
 import pandas as pd
